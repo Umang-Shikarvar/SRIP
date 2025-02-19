@@ -1,0 +1,6 @@
+path: /Users/umangshikarvar/Desktop/SRIP task/
+train: train/images
+val: val/images
+
+nc: 3  # Number of classes
+names: ["class_0", "class_1", "class_2"]
